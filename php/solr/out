@@ -1,0 +1,118 @@
+SolrObject Object
+(
+    [responseHeader] => SolrObject Object
+        (
+            [status] => 0
+            [QTime] => 1
+            [params] => SolrObject Object
+                (
+                    [indent] => on
+                    [q] => room_code:BJFT86940599_02
+house_code:BJCY8579187234235
+                    [wt] => xml
+                    [version] => 2.2
+                )
+
+        )
+
+    [response] => SolrObject Object
+        (
+            [numFound] => 1
+            [start] => 0
+            [docs] => Array
+                (
+                    [0] => SolrObject Object
+                        (
+                            [id] => 96919
+                            [house_code] => BJFT86940599
+                            [house_id] => 12759
+                            [house_status] => bfcz
+                            [depth] => 4
+                            [face_width] => 4
+                            [room_status] => dzz
+                            [room_type_code] => 308600000001
+                            [is_whole] => 0
+                            [usage_area] => 16
+                            [del_flag] => 0
+                            [sell_price] => 2390
+                            [duanzuFlag] => 0
+                            [duanzuSellPrice] => 0
+                            [compartment_face] => 东
+                            [room_name] => 丰台区马家堡4号线马家堡西路24号院4居室-东卧
+                            [balcony_exist] => Y
+                            [photoflag] => 1
+                            [hx_photo] => BJFT86940599/BJFT86940599_05/images/20130722101015.JPG
+                            [room_photos] => Array
+                                (
+                                    [0] => BJFT86940599/02/images/20140715161636_F.JPG
+                                    [1] => BJFT86940599/02/images/20140715161642.JPG
+                                    [2] => BJFT86940599/02/images/20140715161629.JPG
+                                    [3] => BJFT86940599/02/images/20140715161615.JPG
+                                    [4] => BJFT86940599/02/images/20140715161648.JPG
+                                )
+
+                            [room_code] => BJFT86940599_02
+                            [index_no] => 2
+                            [zr_house_code] => DAEK0022
+                            [room_evaluation_title] => 卧室朝东，带阳台朝东，全齐家具
+                            [room_evaluation_price] => 四居室中唯一带阳台的卧室，全新，全齐的配置，朝东向采光充足，两家公用一个卫生间！价格实惠，抢房中
+                            [house_evaluation_circum] => 嘉园商圈，还有物美大卖场，家乐福超市等大型购物场所！！！紧邻地铁10号线哦！ 
+                            [house_evaluation_traffic] => 此小区周边交通十分便利，临近三环草桥站，更有多辆公交专线途径小区，还有地铁四号线与十号线毗邻！！！ 
+                            [house_evaluation_introduction] => 我是本区域自如管家，从事行业已经有5年，负责本区域近100位租客，对周边的租赁房源十分熟悉，凭着多年的经验吸取了丰富的经验，定价十分合理，并且只低不高哦
+                            [resblock_id] => 1111027378303
+                            [ziroom_version_id] => 1001
+                            [hire_contract_id] => 13881
+                            [rating_address] => 丰台区马家堡马家堡西路24号院1号楼6单元第6层602
+                            [lock_type] => N
+                            [hire_commissioner_code] => 20004598
+                            [hire_commissioner_name] => 张传芳
+                            [hire_commissioner_phone] => 15727359028
+                            [area_name] => 南区
+                            [broker_name] => 陈文豹
+                            [broker_phone] => 13661181763
+                            [floor] => 6
+                            [floor_total] => 6
+                            [supply_heat] => 2030002
+                            [dispose_bedroom_amount] => 4
+                            [dispose_parlor_amount] => 1
+                            [style_code] => 97001004
+                            [house_product] => 2000001
+                            [out_house_product] => 2000001
+                            [last_modify_time] => 2014-07-18 10:47:33.0
+                            [promotion] => N
+                            [cycle_code] => 90000000001003
+                            [resblock_name] => 马家堡西路24号院
+                            [resblock_desc] => 嘉园商圈，还有物美大卖场，家乐福超市等大型购物场所！！！紧邻地铁10号线哦
+                            [build_end_year] => 1996
+                            [communityQuanPin] => majiabaoxilu24haoyuan
+                            [district_name] => 丰台区
+                            [district_code] => 23008617
+                            [bizcircle_code] => 18335682
+                            [bizcircle_name_jp] => mjb
+                            [bizcircle_name_qp] => majiabao
+                            [bizcircle_name] => 马家堡
+                            [longitude] => 116.376994
+                            [latitude] => 39.848702
+                            [subway_line_code] => 30001
+                            [subway_line_name] => 4号线
+                            [subway_station_code] => 3000102
+                            [subway_station_name] => 角门西
+                            [walktime] => 1
+                            [rankScore] => 9.450001
+                            [house_address] => 丰台区马家堡西路24号院6单元602
+                            [_version_] => 1474963318871425024
+                        )
+
+                )
+
+        )
+
+    [highlighting] => SolrObject Object
+        (
+            [96919] => SolrObject Object
+                (
+                )
+
+        )
+
+)
