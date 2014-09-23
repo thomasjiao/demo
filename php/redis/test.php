@@ -1,9 +1,0 @@
-<?php
-var_dump(md5(NULL));
-var_dump(md5(FALSE));
-//var_dump(md5(array()));
-//var_dump(md5(0);
-var_dump(md5(''));
-var_dump(md5(''.''));
-var_dump(md5('1'.''));
-var_dump(md5('1'));
